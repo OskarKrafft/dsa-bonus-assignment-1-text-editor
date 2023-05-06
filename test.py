@@ -1,5 +1,13 @@
-from text_editor import TextEditor
+"""
+Submitted on 6th May 2023
 
+bonus assignment 1: text-editor
+
+@authors: Oskar Krafft | Paul Sharratt | Fabian Metz | Amin Oueslati
+"""
+
+
+from text_editor import TextEditor
 
 # Example usage of the TextEditor class
 editor = TextEditor()

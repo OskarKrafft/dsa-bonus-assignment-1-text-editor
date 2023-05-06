@@ -1,3 +1,11 @@
+"""
+Submitted on 6th May 2023
+
+bonus assignment 1: text-editor
+
+@authors: Oskar Krafft | Paul Sharratt | Fabian Metz | Amin Oueslati
+"""
+
 class PositionalList:
     """Define Node class to represent elements in the linked list"""
     class Node:
