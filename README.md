@@ -6,7 +6,7 @@ Data Structures & Algorithms S-2023 | Hertie School | Extra Credit Assignment 1 
 
 ## Scope
 
-In this project we develop a simple text editor using a positiona list class. The text editor allows for the following operations:
+In this project we develop a simple text editor using a positional list class. The text editor allows for the following operations:
 - left: Move cursor to the left by one character
 - right: Move cursor to the right by one character
 - insert: Insert a character just after the cursor
